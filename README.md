@@ -1,3 +1,7 @@
+<h1>这是一个简配版的网盘</h1>
+<p>目前仅仅简单实现了上传文件、查看文件、下载文章的功能。</p>
+
+待更新...
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
