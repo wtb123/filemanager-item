@@ -1,6 +1,6 @@
 ![](https://github.com/wtb123/filemanager-item/blob/master/d8971b68eaafc92dfd53aefa0b32037.png)
 <h1>这是一个简配版的网盘</h1>
-<p>目前仅仅简单实现了上传文件、查看文件、下载文章的功能。</p>
+<p>目前仅仅简单实现了上传文件、查看文件、下载文件的功能。</p>
 待更新...
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
